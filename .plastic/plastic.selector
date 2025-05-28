@@ -1,4 +1,0 @@
-repository "Labirint/Labirint@10171505079344@cloud"
-  path "/"
-    br "/main"
-    co "/main"
